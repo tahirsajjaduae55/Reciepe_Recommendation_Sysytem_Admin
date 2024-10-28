@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "558521196636",
+    "firebase_url": "https://recipe-recommendation-26f29-default-rtdb.firebaseio.com",
+    "project_id": "recipe-recommendation-26f29",
+    "storage_bucket": "recipe-recommendation-26f29.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:558521196636:android:71239238681733bd29c699",
+        "android_client_info": {
+          "package_name": "com.example.car_recipe"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzBDfdVZ0ikCcjq8evnryHblqVeXZpiX8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:558521196636:android:341a64aef3f1ac3e29c699",
+        "android_client_info": {
+          "package_name": "com.example.recipe_admin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzBDfdVZ0ikCcjq8evnryHblqVeXZpiX8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
